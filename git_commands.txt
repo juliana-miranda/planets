@@ -1,0 +1,13 @@
+Clone a repository to your computer:
+git clone git@github.com:metocean/sandbox.git
+
+See the current configured remote repository for your fork:
+git remote -v
+
+To add the new upstream repository you've specified for your fork:
+git remote add upstream git@github.com:metocean/sandbox.git
+
+To verify it:
+git remote -v
+
+
